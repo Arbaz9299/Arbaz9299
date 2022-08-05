@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg) 
 <h1 align="center">Hi 👋, I'm Arbaz Ali</h1>
-<h3 align="center">A passionate Developer from Pakistan</h3>
+<h3 align="center">Passionate Developer from Pakistan</h3>
 <img src="https://i.pinimg.com/originals/69/20/fc/6920fc266ea0a8bfbb02561dfdd18f1c.png" align="right" alt="Coding" width="400" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arbaz9299&label=Profile%20views&color=0e75b6&style=flat" alt="arbaz9299" /> </p>
