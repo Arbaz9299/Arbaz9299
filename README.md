@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://kaggle.com/user id 11186563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="user id 11186563" height="30" width="40" /></a>
 <a href="https://fb.com/arbazali9299@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arbazali2046@yahoo.com" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arbaz-ali-077127262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arbaz-ali-077127262/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/arbazali-softwareeng/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arbaz-ali-077127262/" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
