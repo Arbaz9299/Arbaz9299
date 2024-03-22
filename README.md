@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arbaz9299&label=Profile%20views&color=0e75b6&style=flat" alt="arbaz9299" /> </p>
 
-- 🌱 I’m currently working as **Flutter App Developer **
+- 🌱 I’m currently working as **Flutter App Developer**
 
 - 💬 Ask me about **Flutter App Development, Machine Learning**
 
